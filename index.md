@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/apurvagodghase/ApurvaGo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+With an interest in analyzing consumer behavior and data trend, I enjoy storytelling with Statistics and Business Intelligence. My areas of expertise revolve around programming for data analysis, databases, visualization, big data and AWS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am someone who’s insatiably curious about anything and everything under the sun. I believe I am a self -starter with a tenacious approach towards learning new things! 
 
-### Markdown
+I believe, I amassed many of these skills from my 2+ years of work experience with the Marketing analytics, big data, and Product development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_____________________________________________________________________________________________________________________________
 
-```markdown
-Syntax highlighted code block
+# Work Experience
+## The University of Texas at Dallas,Research Assistant
+September 2017- December 2017
 
-# Header 1
-## Header 2
-### Header 3
+- Cleaned 33GB of federal employment data
+- Merged 655 disparate sources
+- SAS base Programming, Cygwin
+- Primary key to identify the source
+- Data preparation - SAS tables,  adding headers)   
+- Data manipulation (ex. Imputation, data formatting) 
+- Data validation: data integrity, accuracy, completeness
+__________________________________________________________________________
 
-- Bulleted
-- List
+## Legrand-North America,Content Data Analyst Intern
+June 2017- August 2017
 
-1. Numbered
-2. List
+- Automated web searching and scraping to build databases
+- Automated analysis of databases for insights
+- Use of PyExcel, Pandas, NumPy, matplotlib, Selenium
+- Data blending using Alteryx 
+- System analysis for technical /economic feasibility 
+- Business Process documentation
+- Keyword analysis dashboards
+- Strategies to grow the revenue manifold
+____________________________________________________________________________
 
-**Bold** and _Italic_ and `Code` text
+## IBM, Associate System Engineer
+September 2015- March 2016
 
-[Link](url) and ![Image](src)
-```
+- Web-based visualization in 25 portlets
+- Internal and client facing presentation designing
+- Liason between the Manager and 10 trainees 
+- Database management 
+- Work on multiple projects against tight deadlines
+_____________________________________________________________________________
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Dispotronics, Product Analyst Intern
+August 2014- May 2015
 
-### Jekyll Themes
+- Product strategy
+- Risk analytics
+- Quantitative analysis: Survey, Excel formula, pivot table, macros
+- Analysis based solution recommendation
+- Suggestion of inclusion of PIR sensor in MND patient communication aid 
+- Qualitative analysis : Focus group,participant observation, interview
+- Work with cross functional teams
+  
+______________________________________________________________________________  
+# Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apurvagodghase/ApurvaGo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## The University of Texas at Dallas
+M.S.,Information Technology Management (Business Intelligence and Analytics concentration)
+August 2016 - present
 
-### Support or Contact
+​ Overall GPA:  3.742
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Courses:
+Big Data Analytics, Programming for data science, Data Visualization, Data management, Data Warehousing, Statistics for analytics, Business Analytics using SAS, Marketing Management, Organizational Behavior
+______________________________________________________________________________
+## The University of Pune
+Electronics and Telecommunication
+August 2011- May 2015
+
+Courses: 
+Soft computing and Neural Network, MATLAB programming, Data Structures, Digital Logic Design,  Joint Time-Frequency Analysis, Industrial Management, Introduction to Programming
+
+____________________________________________________________________________________________________________________________________
+### Contact Details
+apurva.godghase01@gmail.com
+
+469.216.7585
